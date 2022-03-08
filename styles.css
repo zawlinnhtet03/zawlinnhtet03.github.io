@@ -96,8 +96,8 @@ html{
 /* home section styling */
 .home{
     display: flex;
-    background: url("image/Portfolio-Banner-1.jpg") no-repeat center;
-    /* background-color: #829192; */
+    /* background: url("image/Portfolio-Banner-1.jpg") no-repeat center; */
+    background-color: #00b3bf;
     height: 100vh;
     color: white;
     min-height: 500px;
