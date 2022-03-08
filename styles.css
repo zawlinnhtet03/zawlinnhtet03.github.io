@@ -97,7 +97,7 @@ html{
 
 .home{
     display: flex;
-    background: url("image/Portfolio-Banner-1.jpg") no-repeat center;
+    /* background: url("image/Portfolio-Banner-1.jpg") no-repeat center; */
     background-color: #00b3bf;
     height: 100vh;
     color: white;
